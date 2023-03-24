@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "epitopeR"]
+	path = epitopeR
+	url = https://github.com/cran/epitopeR
+	shallow = true
+	registered = true
+[submodule "epitopR"]
+	path = epitopR
+	url = https://github.com/cran/epitopR
+	shallow = true
+	registered = true
